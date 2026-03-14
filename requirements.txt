@@ -1,0 +1,20 @@
+# Computer Vision
+opencv-python
+ultralytics
+torch
+torchvision
+numpy
+
+# Backend API
+fastapi
+uvicorn
+python-multipart
+
+# HTTP Requests
+requests
+
+# Data Handling
+pydantic
+
+# Environment variables (optional but useful)
+python-dotenv
